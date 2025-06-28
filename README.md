@@ -5,8 +5,8 @@
 
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" />
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=maayanbhatti&label=Profile%20views&color=0e75b6&style=flat" alt="maayanbhatti" />
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" alt="Coding" width="250"/>
 </p>
 
 ---

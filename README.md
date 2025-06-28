@@ -5,17 +5,18 @@
 
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" />
 
-<p align="center">
-  <img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" alt="Coding" width="250"/>
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=maayanbhatti&label=Profile%20views&color=0e75b6&style=flat" alt="maayanbhatti" /> </p>
 
----
+- 🔭 I’m currently working on **Mobile App development**
 
-- 🔭 I’m currently working on **Mobile App Development**  
-- 🌱 Learning **Flutter** and **JavaScript**  
-- 💬 Ask me about **HTML, CSS, Python, and Flutter**  
-- 📫 Reach me at **maayanbhatti10@gmail.com**  
-- ⚡ Fun fact: *I think I'm funny 😄*
+- 🌱 I’m currently learning **Flutter and JavaScript**
+
+- 💬 Ask me about **HTML, CSS, Python and Flutter**
+
+- 📫 How to reach me **maayanbhatti10@gmail.com**
+
+- ⚡ Fun fact **I Think I Am Funny**
+
 
 ---
 
